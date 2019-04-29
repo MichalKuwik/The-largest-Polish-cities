@@ -1,0 +1,483 @@
+[
+    {
+        "name": "Bielsko-Biała",
+        "population": "173 479",
+        "voivodeship": "Śląskie",
+        "surface": "124.5"
+    },
+    {
+        "name": "Bytom",
+        "population": "172 762",
+        "voivodeship": "Śląskie",
+        "surface": "69.4"
+    },
+    {
+        "name": "Częstochowa",
+        "population": "231 527",
+        "voivodeship": "Śląskie",
+        "surface": "159.6"
+    },
+    {
+        "name": "Katowice",
+        "population": "303 314",
+        "voivodeship": "Śląskie",
+        "surface": "164.54"
+    },
+    {
+        "name": "Tychy",
+        "population": "128.698",
+        "voivodeship": "Śląskie",
+        "surface": "81.62"
+    },
+    {
+        "name": "Gliwice",
+        "population": "184.993",
+        "voivodeship": "Śląskie",
+        "surface": "133.8"
+    },
+    {
+        "name": "Ruda Śląska",
+        "population": "140 090",
+        "voivodeship": "Śląskie",
+        "surface": "77.6"
+    },
+    {
+        "name": "Rybnik",
+        "population": "140 094",
+        "voivodeship": "Śląskie",
+        "surface": "148.2"
+    },
+    {
+        "name": "Sosnowiec",
+        "population": "210 249",
+        "voivodeship": "Śląskie",
+        "surface": "91.2"
+    },
+    {
+        "name": "Zabrze",
+        "population": "177 815",
+        "voivodeship": "Śląskie",
+        "surface": "80.4"
+    },
+    
+    {
+        "name": "Kraków",
+        "population": "761 873",
+        "voivodeship": "Małopolskie",
+        "surface": "326.8"
+    },
+    {
+        "name": "Tarnów",
+        "population": "111 376",
+        "voivodeship": "Małopolskie",
+        "surface": "72.4"
+    },
+    {
+        "name": "Nowy Sącz",
+        "population": "83 853",
+        "voivodeship": "Małopolskie",
+        "surface": "57.06"
+    },
+    {
+        "name": "Oświęcim",
+        "population": "39 444",
+        "voivodeship": "Małopolskie",
+        "surface": "30.3"
+    },
+    {
+        "name": "Chrzanów",
+        "population": "37 898",
+        "voivodeship": "Małopolskie",
+        "surface": "38.3"
+    },
+    {
+        "name": "Olkusz",
+        "population": "36 477",
+        "voivodeship": "Małopolskie",
+        "surface": "25.66"
+    },
+    {
+        "name": "Nowy Targ",
+        "population": "33 598",
+        "voivodeship": "Małopolskie",
+        "surface": "50.4"
+    },
+    {
+        "name": "Bochnia",
+        "population": "30 104",
+        "voivodeship": "Małopolskie",
+        "surface": "29.9"
+    },
+    {
+        "name": "Gorlice",
+        "population": "28 255",
+        "voivodeship": "Małopolskie",
+        "surface": "23.6"
+    },
+    {
+        "name": "Zakopane",
+        "population": "27 556",
+        "voivodeship": "Małopolskie",
+        "surface": "84.4"
+    },
+    {
+        "name": "Rzeszów",
+        "population": "189 662",
+        "voivodeship": "Podkarpackie",
+        "surface": "116.3"
+    },
+    {
+        "name": "Stalowa Wola",
+        "population": "61 903",
+        "voivodeship": "Podkarpackie",
+        "surface": "82.52"
+    },
+    {
+        "name": "Przemyśl",
+        "population": "61 808",
+        "voivodeship": "Podkarpackie",
+        "surface": "46.2"
+    },
+    {
+        "name": "Mielec",
+        "population": "60 628",
+        "voivodeship": "Podkarpackie",
+        "surface": "46.9"
+    },
+    {
+        "name": "Tarnobrzeg",
+        "population": "47 308",
+        "voivodeship": "Podkarpackie",
+        "surface": "85.4"
+    },
+    {
+        "name": "Krosno",
+        "population": "46 600",
+        "voivodeship": "Podkarpackie",
+        "surface": "43.5"
+    },
+    {
+        "name": "Dębica",
+        "population": "46 063",
+        "voivodeship": "Podkarpackie",
+        "surface": "44.0"
+    },
+    {
+        "name": "Sanok",
+        "population": "37 980",
+        "voivodeship": "Podkarpackie",
+        "surface": "38.1"
+    },
+    {
+        "name": "Jarosław",
+        "population": "37 892",
+        "voivodeship": "Podkarpackie",
+        "surface": "34.6"
+    },
+    {
+        "name": "Jasło",
+        "population": "35 445",
+        "voivodeship": "Podkarpackie",
+        "surface": "36.5"
+    },
+    {
+        "name": "Łódź",
+        "population": "708 554",
+        "voivodeship": "Łódzkie",
+        "surface": "293.3"
+    },
+    {
+        "name": "Piotrków Trybunalski",
+        "population": "75 735",
+        "voivodeship": "Łódzkie",
+        "surface": "67.2"
+    },
+    {
+        "name": "Pabianice",
+        "population": "67.462",
+        "voivodeship": "Łódzkie",
+        "surface": "33.0"
+    },
+    {
+        "name": "Tomaszów Mazowiecki",
+        "population": "64 712",
+        "voivodeship": "Łódzkie",
+        "surface": "41.3"
+    },
+    {
+        "name": "Bełchatów",
+        "population": "59 469",
+        "voivodeship": "Łódzkie",
+        "surface": "34.64"
+    },
+    {
+        "name": "Zgierz",
+        "population": "57 458",
+        "voivodeship": "Łódzkie",
+        "surface": "42.3"
+    },
+    {
+        "name": "Skierniewice",
+        "population": "48 693",
+        "voivodeship": "Łódzkie",
+        "surface": "36.1"
+    },
+    {
+        "name": "Radomsko",
+        "population": "47 560",
+        "voivodeship": "Łódzkie",
+        "surface": "51.4"
+    },
+    {
+        "name": "Kutno",
+        "population": "45 523",
+        "voivodeship": "Łódzkie",
+        "surface": "33.6"
+    },
+    {
+        "name": "Zduńska Wola",
+        "population": "43 430",
+        "voivodeship": "Łódzkie",
+        "surface": "24.6"
+    },
+    {
+        "name": "Kielce",
+        "population": "199.475",
+        "voivodeship": "Świętokszyskie",
+        "surface": "109.7"
+    },
+    {
+        "name": "Ostrowiec Świętokszyski",
+        "population": "72 112",
+        "voivodeship": "Świętokszyskie",
+        "surface": "46.4"
+    },
+    {
+        "name": "Starachowice",
+        "population": "51 112",
+        "voivodeship": "Świętokszyskie",
+        "surface": "31.8"
+    },
+    {
+        "name": "Skarżysko-Kamienna",
+        "population": "47 354",
+        "voivodeship": "Świętokszyskie",
+        "surface": "64.4"
+    },
+    {
+        "name": "Sandomierz",
+        "population": "24 457",
+        "voivodeship": "Świętokszyskie",
+        "surface": "28.7"
+    },
+    {
+        "name": "Końskie",
+        "population": "20 149",
+        "voivodeship": "Świętokszyskie",
+        "surface": "17.7"
+    },
+    {
+        "name": "Busko-Zdrój",
+        "population": "16 598",
+        "voivodeship": "Świętokszyskie",
+        "surface": "12.3"
+    },
+    {
+        "name": "Jędrzejów",
+        "population": "15 338",
+        "voivodeship": "Świętokszyskie",
+        "surface": "11.4"
+    },
+    {
+        "name": "Staszów",
+        "population": "15 338",
+        "voivodeship": "Świętokszyskie",
+        "surface": "26.9"
+    },
+    {
+        "name": "Pińczów",
+        "population": "11 217",
+        "voivodeship": "Świętokszyskie",
+        "surface": "14.3"
+    },
+    {
+        "name": "Lublin",
+        "population": "339 850",
+        "voivodeship": "Lubelskie",
+        "surface": "147.5"
+    },
+    {
+        "name": "Zamość",
+        "population": "64 354",
+        "voivodeship": "Lubelskie",
+        "surface": "30.3"
+    },
+    {
+        "name": "Chełm",
+        "population": "63 333",
+        "voivodeship": "Lubelskie",
+        "surface": "35.3"
+    },
+    {
+        "name": "Biała Podlaska",
+        "population": "57 545",
+        "voivodeship": "Lubelskie",
+        "surface": "49.4"
+    },
+    {
+        "name": "Puławy",
+        "population": "48 114",
+        "voivodeship": "Lubelskie",
+        "surface": "50.6"
+    },
+    {
+        "name": "Świdnik",
+        "population": "39 732",
+        "voivodeship": "Lubelskie",
+        "surface": "20.4"
+    },
+    {
+        "name": "Kraśnik",
+        "population": "34 821",
+        "voivodeship": "Lubelskie",
+        "surface": "25.5"
+    },
+    {
+        "name": "Łuków",
+        "population": "30 310",
+        "voivodeship": "Lubelskie",
+        "surface": "35.8"
+    },
+    {
+        "name": "Biłgoraj",
+        "population": "26 550",
+        "voivodeship": "Lubelskie",
+        "surface": "21.1"
+    },
+    {
+        "name": "Lubartów",
+        "population": "22 135",
+        "voivodeship": "Lubelskie",
+        "surface": "14.0"
+    },
+    {
+        "name": "Warszawa",
+        "population": "1 729 119",
+        "voivodeship": "Mazowieckie",
+        "surface": "517.9"
+    },
+    {
+        "name": "Radom",
+        "population": "217 834",
+        "voivodeship": "Mazowieckie",
+        "surface": "111.8"
+    },
+    {
+        "name": "Płock",
+        "population": "122 572",
+        "voivodeship": "Mazowieckie",
+        "surface": "88.6"
+    },
+    {
+        "name": "Siedlce",
+        "population": "76 585",
+        "voivodeship": "Mazowieckie",
+        "surface": "31.9"
+    },
+    {
+        "name": "Pruszków",
+        "population": "59 798",
+        "voivodeship": "Mazowieckie",
+        "surface": "19.2"
+    },
+    {
+        "name": "Legionowo",
+        "population": "54 246",
+        "voivodeship": "Mazowieckie",
+        "surface": "13.6"
+    },
+    {
+        "name": "Ostrołęka",
+        "population": "52 792",
+        "voivodeship": "Mazowieckie",
+        "surface": "29.0"
+    },
+    {
+        "name": "Piaseczno",
+        "population": "45 270",
+        "voivodeship": "Mazowieckie",
+        "surface": "16.2"
+    },
+    {
+        "name": "Otwock",
+        "population": "45 270",
+        "voivodeship": "Mazowieckie",
+        "surface": "47.3"
+    },
+    {
+        "name": "Ciechanów",
+        "population": "44 673",
+        "voivodeship": "Mazowieckie",
+        "surface": "32.8"
+    },
+    {
+        "name": "Białystok",
+        "population": "302 288",
+        "voivodeship": "Podlaskie",
+        "surface": "102.1"
+    },
+    {
+        "name": "Suwałki",
+        "population": "69 554",
+        "voivodeship": "Podlaskie",
+        "surface": "65.5"
+    },
+    {
+        "name": "Łomża",
+        "population": "63 092",
+        "voivodeship": "Podlaskie",
+        "surface": "32.7"
+    },
+    {
+        "name": "Augustów",
+        "population": "30 270",
+        "voivodeship": "Podlaskie",
+        "surface": "80.9"
+    },
+    {
+        "name": "Bielsk Podlaski",
+        "population": "25 173",
+        "voivodeship": "Podlaskie",
+        "surface": "27.00"
+    },
+    {
+        "name": "Zambrów",
+        "population": "22 173",
+        "voivodeship": "Podlaskie",
+        "surface": "19.0"
+    },
+    {
+        "name": "Grajewo",
+        "population": "22 049",
+        "voivodeship": "Podlaskie",
+        "surface": "19.0"
+    },
+    {
+        "name": "Hajnówka",
+        "population": "20 919",
+        "voivodeship": "Podlaskie",
+        "surface": "21.3"
+    },
+    {
+        "name": "Sokółka",
+        "population": "18 331",
+        "voivodeship": "Podlaskie",
+        "surface": "18.6"
+    },
+    {
+        "name": "Łapy",
+        "population": "15 689",
+        "voivodeship": "Podlaskie",
+        "surface": "12.1"
+    }
+]
