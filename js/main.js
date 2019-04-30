@@ -22,5 +22,18 @@ const searchCities = async searchText => {
 };
 
 //show results in HTML
+const outputHtml = matches => {
+    if(matches.length > 0) {
+        const html = matches.map(match => `
+            <div class="card card-body mb-2">
+                <h4>Nazwa miasta: ${match.name}
+                    Liczba mieszkańców: ${match.population}
+                </h4>
+            </div>
+        `).join('');
+
+        
+    }
+}
 
 searchInput.addEventListener('input', () => searchCities(search.value));
