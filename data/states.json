@@ -479,5 +479,484 @@
         "population": "15 689",
         "voivodeship": "Podlaskie",
         "surface": "12.1"
+    },
+    {
+        "name": "Olsztyn",
+        "population": "172 970",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "87.9"
+    },
+    {
+        "name": "Elbląg",
+        "population": "121.124",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "80.0"
+    },
+    {
+        "name": "Ełk",
+        "population": "61 238",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "21.1"
+    },
+    {
+        "name": "Ostróda",
+        "population": "33 216",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "14.2"
+    },
+    {
+        "name": "Iława",
+        "population": "33 128",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "21.9"
+    },
+    {
+        "name": "Giżycko",
+        "population": "29.572",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "13.8"
+    },
+    {
+        "name": "Kętrzyn",
+        "population": "27 554",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "10.4"
+    },
+    {
+        "name": "Bartoszyce",
+        "population": "23 989",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "11.0"
+    },
+    {
+        "name": "Szczytno",
+        "population": "23 698",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "10.3"
+    },
+    {
+        "name": "Mrągowo",
+        "population": "21 913",
+        "voivodeship": "Warmińsko-Mazurskie",
+        "surface": "14.9"
+    },
+    {
+        "name": "Bydgoszcz",
+        "population": "353 215",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "176.0"
+    },
+    {
+        "name": "Toruń",
+        "population": "202 495",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "115.7"
+    },
+    {
+        "name": "Włocałwek",
+        "population": "112 106",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "84.3"
+    },
+    {
+        "name": "Grudziądz",
+        "population": "95 781",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "57.8"
+    },
+    {
+        "name": "Inowrocław",
+        "population": "73 813",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "30.4"
+    },
+    {
+        "name": "Brodnica",
+        "population": "28 732",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "23.2"
+    },
+    {
+        "name": "Świecie",
+        "population": "25 948",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "17.6"
+    },
+    {
+        "name": "Chełmno",
+        "population": "19 934",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "13.6"
+    },
+    {
+        "name": "Nakło nad Notecią",
+        "population": "18 668",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "10.7"
+    },
+    {
+        "name": "Rypin",
+        "population": "16 437",
+        "voivodeship": "Kujawsko-Pomorskie",
+        "surface": "11.0"
+    },
+    {
+        "name": "Gdańsk",
+        "population": "464 829",
+        "voivodeship": "Pomorskie",
+        "surface": "265.5"
+    },
+    {
+        "name": "Gdynia",
+        "population": "246 204",
+        "voivodeship": "Pomorskie",
+        "surface": "135.0"
+    },
+    {
+        "name": "Słupsk",
+        "population": "91 225",
+        "voivodeship": "Pomorskie",
+        "surface": "43.2"
+    },
+    {
+        "name": "Tczew",
+        "population": "60 153",
+        "voivodeship": "Pomorskie",
+        "surface": "22.3"
+    },
+    {
+        "name": "Wejcherowo",
+        "population": "49 859",
+        "voivodeship": "Pomorskie",
+        "surface": "25.7"
+    },
+    {
+        "name": "Rumia",
+        "population": "48 832",
+        "voivodeship": "Pomorskie",
+        "surface": "30.1"
+    },
+    {
+        "name": "Starogard Gdański",
+        "population": "48 014",
+        "voivodeship": "Pomorskie",
+        "surface": "25.3"
+    },
+    {
+        "name": "Chojnice",
+        "population": "39 900",
+        "voivodeship": "Pomorskie",
+        "surface": "21.1"
+    },
+    {
+        "name": "Malbork",
+        "population": "38 668",
+        "voivodeship": "Pomorskie",
+        "surface": "17.2"
+    },
+    {
+        "name": "Kwidzyn",
+        "population": "38 526",
+        "voivodeship": "Pomorskie",
+        "surface": "21.6"
+    },
+    {
+        "name": "Poznań",
+        "population": "539 659",
+        "voivodeship": "Wielkopolskie",
+        "surface": "261.9"
+    },
+    {
+        "name": "Kalisz",
+        "population": "101 902",
+        "voivodeship": "Wielkopolskie",
+        "surface": "69.4"
+    },
+    {
+        "name": "Konin",
+        "population": "75 077",
+        "voivodeship": "Wielkopolskie",
+        "surface": "82.2"
+    },
+    {
+        "name": "Piła",
+        "population": "73 928",
+        "voivodeship": "Wielkopolskie",
+        "surface": "102.7"
+    },
+    {
+        "name": "Ostrów Wielkopolski",
+        "population": "72 411",
+        "voivodeship": "Wielkopolskie",
+        "surface": "41.9"
+    },
+    {
+        "name": "Gniezno",
+        "population": "69 123",
+        "voivodeship": "Wielkopolskie",
+        "surface": "40.1"
+    },
+    {
+        "name": "Leszno",
+        "population": "64 090",
+        "voivodeship": "Wielkopolskie",
+        "surface": "31.9"
+    },
+    {
+        "name": "Luboń",
+        "population": "31 475",
+        "voivodeship": "Wielkopolskie",
+        "surface": "13.5"
+    },
+    {
+        "name": "Swarzędz",
+        "population": "30 834",
+        "voivodeship": "Wielkopolskie",
+        "surface": "8.6"
+    },
+    {
+        "name": "Września",
+        "population": "30 834",
+        "voivodeship": "Wielkopolskie",
+        "surface": "12.7"
+    },
+    {
+        "name": "Szczecin",
+        "population": "403 274",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "300.6"
+    },
+    {
+        "name": "Koszalin",
+        "population": "107 698",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "98.3"
+    },
+    {
+        "name": "Stargard",
+        "population": "68 098",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "48.1"
+    },
+    {
+        "name": "Kołobrzeg",
+        "population": "46 487",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "25.7"
+    },
+    {
+        "name": "Świnoujście",
+        "population": "40 967",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "197.2"
+    },
+    {
+        "name": "Szczecinek",
+        "population": "40 220",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "48.5"
+    },
+    {
+        "name": "Police",
+        "population": "32 835",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "48.5"
+    },
+    {
+        "name": "Wałcz",
+        "population": "25 417",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "38.2"
+    },
+    {
+        "name": "Białogard",
+        "population": "24 340",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "300.6"
+    },
+    {
+        "name": "Goleniów",
+        "population": "22 466",
+        "voivodeship": "Zachodnio-Pomorskie",
+        "surface": "11.8"
+    },
+    {
+        "name": "Zielona Góra",
+        "population": "139 560",
+        "voivodeship": "Lubuskie",
+        "surface": "58.1"
+    },
+    {
+        "name": "Gorzów Wielkopolski",
+        "population": "123 967",
+        "voivodeship": "Lubuskie",
+        "surface": "85.7"
+    },
+    {
+        "name": "Nowa Sól",
+        "population": "39 082",
+        "voivodeship": "Lubuskie",
+        "surface": "21.8"
+    },{
+        "name": "Żary",
+        "population": "37 987",
+        "voivodeship": "Lubuskie",
+        "surface": "33.5"
+    },
+    {
+        "name": "Żagań",
+        "population": "26 076",
+        "voivodeship": "Lubuskie",
+        "surface": "40.4"
+    },
+    {
+        "name": "Świebodzin",
+        "population": "22 015",
+        "voivodeship": "Lubuskie",
+        "surface": "16.9"
+    },
+    {
+        "name": "Międzyrzecz",
+        "population": "18 310",
+        "voivodeship": "Lubuskie",
+        "surface": "10.6"
+    },
+    {
+        "name": "Kostrzyń nad Odrą",
+        "population": "17 980",
+        "voivodeship": "Lubuskie",
+        "surface": "46.1"
+    },
+    {
+        "name": "Sulechów",
+        "population": "17 054",
+        "voivodeship": "Lubuskie",
+        "surface": "6.1"
+    },
+    {
+        "name": "Słubice",
+        "population": "16 802",
+        "voivodeship": "Lubuskie",
+        "surface": "19.2"
+    },
+    {
+        "name": "Wrocław",
+        "population": "638 364",
+        "voivodeship": "Dolnośląskie",
+        "surface": "294.8"
+    },
+    {
+        "name": "Wałbrzych",
+        "population": "114 065",
+        "voivodeship": "Dolnośląskie",
+        "surface": "84.7"
+    },
+    {
+        "name": "Legnica",
+        "population": "100 455",
+        "voivodeship": "Dolnośląskie",
+        "surface": "56.3"
+    },
+    {
+        "name": "Jelenia Góra",
+        "population": "80 324",
+        "voivodeship": "Dolnośląskie",
+        "surface": "109.2"
+    },
+    {
+        "name": "Lubin",
+        "population": "74 315",
+        "voivodeship": "Dolnośląskie",
+        "surface": "40.8"
+    },
+    {
+        "name": "Głogów",
+        "population": "68 114",
+        "voivodeship": "Dolnośląskie",
+        "surface": "35.1"
+    },
+    {
+        "name": "Świdnica",
+        "population": "57 765",
+        "voivodeship": "Dolnośląskie",
+        "surface": "21.8"
+    },
+    {
+        "name": "Bolesławiec",
+        "population": "39 110",
+        "voivodeship": "Dolnośląskie",
+        "surface": "23.6"
+    },
+    {
+        "name": "Oleśnica",
+        "population": "37 347",
+        "voivodeship": "Dolnośląskie",
+        "surface": "20.1"
+    },
+    {
+        "name": "Dzierżonów",
+        "population": "33 707",
+        "voivodeship": "Dolnośląskie",
+        "surface": "20.1"
+    },
+    {
+        "name": "Opole",
+        "population": "128 145",
+        "voivodeship": "Opolskie",
+        "surface": "148.9"
+    },
+    {
+        "name": "Kędzierzyn-Koźle",
+        "population": "61 949",
+        "voivodeship": "Opolskie",
+        "surface": "123.7"
+    },
+    {
+        "name": "Nysa",
+        "population": "44 345",
+        "voivodeship": "Opolskie",
+        "surface": "27.5"
+    },
+    {
+        "name": "Brzeg",
+        "population": "36 208",
+        "voivodeship": "Opolskie",
+        "surface": "14.6"
+    },
+    {
+        "name": "Kluczbork",
+        "population": "23 920",
+        "voivodeship": "Opolskie",
+        "surface": "12.9"
+    },
+    {
+        "name": "Prudnik",
+        "population": "21 278",
+        "voivodeship": "Opolskie",
+        "surface": "20.5"
+    },
+    {
+        "name": "Strzelce Opolskie",
+        "population": "18 135",
+        "voivodeship": "Opolskie",
+        "surface": "29.9"
+    },
+    {
+        "name": "Krapkowice",
+        "population": "16 576",
+        "voivodeship": "Opolskie",
+        "surface": "21.0"
+    },
+    {
+        "name": "Namysłów",
+        "population": "16 288",
+        "voivodeship": "Opolskie",
+        "surface": "22.6"
+    },
+    {
+        "name": "Głuchołazy",
+        "population": "13 719",
+        "voivodeship": "Opolskie",
+        "surface": "6.9"
     }
 ]
