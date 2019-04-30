@@ -26,13 +26,16 @@ const outputHtml = matches => {
     if(matches.length > 0) {
         const html = matches.map(match => `
             <div class="card card-body mb-2">
-                <h4>Nazwa miasta: ${match.name}
-                    Liczba mieszkańców: ${match.population}
+                <h4>Nazwa miasta: <span class="text-primary"> ${match.name} </span> <br>
+                    Województwo: <span class="text-primary"> ${match.voivodeship} </span> <br>
+                    Powierzchnia miasta: <span class="text-primary"> ${match.surface} km² </span> <br>
+                    Liczba mieszkańców: <span class="text-primary"> ${match.population} osób </span>
                 </h4>
             </div>
         `).join('');
 
-        
+        //see score on div#list
+        scoreField.innerHTML = html;
     }
 }
 
