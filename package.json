@@ -1,0 +1,22 @@
+{
+  "name": "app-states-json",
+  "version": "1.0.0",
+  "description": "This is app using Fetch API.\r I created local API in json format in folder 'data/states.json'.\r If you want download this API!\r Enjoy!",
+  "main": "js/main.js",
+  "scripts": {
+    "ls": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalKuwik/The-largest-Polish-cities.git"
+  },
+  "author": "Michał Kuwik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalKuwik/The-largest-Polish-cities/issues"
+  },
+  "homepage": "https://github.com/MichalKuwik/The-largest-Polish-cities#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
