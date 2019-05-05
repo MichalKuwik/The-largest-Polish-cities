@@ -16,7 +16,8 @@
     "url": "https://github.com/MichalKuwik/The-largest-Polish-cities/issues"
   },
   "homepage": "https://github.com/MichalKuwik/The-largest-Polish-cities#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "live-server": "^1.2.1"
   }
 }
