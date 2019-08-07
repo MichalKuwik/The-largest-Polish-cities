@@ -1,3 +1,10 @@
+.img-state{
+    display: block;
+    margin:1rem auto;
+    width:4rem;
+    height: 5rem;
+}
+
 @media screen and (max-width:500px){
     h4{
         font-size:1rem;

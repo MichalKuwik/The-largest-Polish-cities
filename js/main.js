@@ -2,7 +2,7 @@
 const searchInput = document.querySelector('input#search');
 const scoreField = document.querySelector('#list');
 
-const searchCities = async searchText => {
+const searchCities = async (searchText) => {
     const res = await fetch('../data/states.json');
     const cities = await res.json();
 
@@ -29,7 +29,8 @@ const outputHtml = matches => {
                 <h4>Nazwa miasta: <span class="text-primary"> ${match.name} </span> <br>
                     Województwo: <span class="text-primary"> ${match.voivodeship} </span> <br>
                     Powierzchnia miasta: <span class="text-primary"> ${match.surface} km² </span> <br>
-                    Liczba mieszkańców: <span class="text-primary"> ${match.population} osób </span>
+                    Liczba mieszkańców: <span class="text-primary"> ${match.population} osób </span><br>
+                    <span><img class="img-state" src=${match.img} alt="herb"/></span>
                 </h4>
             </div>
         `).join('');
